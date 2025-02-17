@@ -4,6 +4,8 @@ import getpass, shutil, sys, filecmp
 from datetime import datetime
 import argparse, os
 
+# Command to add .zshrc sudo python3 $HOME/CustomSetupMaterial/DefaultInstall/install_filer.py --auto --use_ticket
+
 parser = argparse.ArgumentParser(
                     prog='install_filer',
                     description='Sets up filer access on this computer',
