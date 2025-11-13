@@ -6,7 +6,7 @@
 
 # Install Ubuntu
 
-## Make a bootable USB Drive from a Ubuntu computer (or simply ask me for one)
+## Make a bootable USB Drive from a Ubuntu computer (on another computer)
 
 1. Download the [latest stable Ubuntu Desktop](https://ubuntu.com/download/desktop)
 2. Have an __empty__ USB Stick 
@@ -22,10 +22,11 @@ There is however no risk in just continuing from here without caring about this 
 
 Furthermore, installing Ubuntu has a very low chance of going wrong, but if it goes wrong, you may lose all your data. It may be wise to backup your data beforehand...
 
-1. Make sure to press F2 or F12 (or sometimes F8, this is depends on your hardware) during startup and select your USB Stick as boot device
-2. Select *Try or Install Ubuntu*
-3. Select *Try Ubuntu* (do not install yet)
-4. Try as much as you want
+1. Plug-in the usb key.
+2. Make sure to press F2 or F12 (or sometimes F8, this is depends on your hardware) during startup and select your USB Stick as boot device
+3. Select *Try or Install Ubuntu*
+4. Select *Try Ubuntu* (do not install yet)
+5. Try as much as you want
 
 ## Creating space to install Ubuntu
 
